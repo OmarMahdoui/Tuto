@@ -1,8 +1,6 @@
 package com.dagger2.comanddev.dagger2tuto.network;
 
 
-import com.twistedeqations.dagger2tutorial.models.GithubRepo;
-import com.twistedeqations.dagger2tutorial.models.GithubUser;
 
 import java.util.List;
 

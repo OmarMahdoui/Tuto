@@ -30,7 +30,7 @@ public class NetworkModule {
     @Provides
     @GithubApplicationScope
     public Cache cache(File cacheFile) {
-        return new Cache(cacheFile, 10 * 1000 * 1000); //10MB Cahe
+        return new Cache(cacheFile, 10 * 1000 * 1000);
     }
 
     @Provides
