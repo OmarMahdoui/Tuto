@@ -2,8 +2,6 @@ package com.dagger2.comanddev.dagger2tuto;
 
 import android.content.Context;
 
-import javax.inject.Named;
-
 import dagger.Module;
 import dagger.Provides;
 
